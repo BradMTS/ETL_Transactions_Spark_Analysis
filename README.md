@@ -1,4 +1,4 @@
-# ETL_Nord_Spar_ATM_Transactions
+# ETL_NordSparBank_Denmark_ATM_Transactions
 
 The task was to build a batch ETL pipeline to read transactional data from RDS, transform it using PySpark and then load it into Amazon S3 ---> RedShift Tables
 
